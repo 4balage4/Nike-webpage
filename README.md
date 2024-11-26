@@ -1,14 +1,9 @@
-# React + Vite
+# Nike Webpages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hosted on Vercel
 
-Currently, two official plugins are available:
+[Live page](https://nike-webpage-nine.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-based on the Javascrip mastery tutorial. 
 
 future extentions
 - adding transition to the buttons
@@ -16,3 +11,8 @@ future extentions
 - hamburger menu extention
 - up to button
 - add to cart - implement cart
+
+
+ 
+
+The project was made following the [Javascript Mastery tutorial](https://youtu.be/tS7upsfuxmo?si=PMkHhPJuVnKrxVst) 
